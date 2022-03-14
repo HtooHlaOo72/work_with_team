@@ -1,2 +1,2 @@
-Facebook;
-twitter;
+FACEBOOK;
+TWITTER;
